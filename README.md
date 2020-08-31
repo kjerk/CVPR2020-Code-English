@@ -1,13 +1,12 @@
 # CVPR2020 Papers and Accompanying Code
 
-Forked from [ECCV2020-Code](https://github.com/amusi/ECCV2020-Code) to add additions and add some english translation.
+Forked from [CVPR2020-Code](https://github.com/amusi/CVPR2020-Code) to add additions and add some english translation.
 *Huge credit to [amusi](https://github.com/amusi)* for the original work and all contributors, this repo is just to make it faster for myself and maybe some others to look at.
 
 This repo contains categorized links to [CVPR 2020](https://openaccess.thecvf.com/CVPR2020) papers, and accomnapying code repos if they are available.
 
 For other conference paper collections, see https://github.com/amusi/daily-paper-computer-vision
 
-- [CVPR2020 Papers and Accompanying Code](#cvpr2020-papers-and-accompanying-code)
 - [Convolutional Neural Networks](#convolutional-neural-networks)
 - [Image Classification](#image-classification)
 - [Video Classification](#video-classification)
