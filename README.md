@@ -1,6 +1,7 @@
 # CVPR2020 Papers and Accompanying Code
 
 Forked from [ECCV2020-Code](https://github.com/amusi/ECCV2020-Code) to add additions and add some english translation.
+*Huge credit to [amusi](https://github.com/amusi)* for the original work and all contributors, this repo is just to make it faster for myself and maybe some others to look at.
 
 This repo contains categorized links to [CVPR 2020](https://openaccess.thecvf.com/CVPR2020) papers, and accomnapying code repos if they are available.
 
@@ -93,13 +94,11 @@ For other conference paper collections, see https://github.com/amusi/daily-paper
 **Exploring Self-attention for Image Recognition**
 
 - Paper: https://hszhao.github.io/papers/cvpr20_san.pdf
-
 - Code: https://github.com/hszhao/SAN
 
 **Improving Convolutional Networks with Self-Calibrated Convolutions**
 
 - Project Page: https://mmcheng.net/scconv/
-
 - Paper: http://mftp.mmcheng.net/Papers/20cvprSCNet.pdf
 - Code: https://github.com/backseason/SCNet
 
@@ -113,19 +112,17 @@ For other conference paper collections, see https://github.com/amusi/daily-paper
 **Interpretable and Accurate Fine-grained Recognition via Region Grouping**
 
 - Paper: https://arxiv.org/abs/2005.10411
-
 - Code: https://github.com/zxhuang1698/interpretability-by-parts
 
 **Compositional Convolutional Neural Networks: A Deep Architecture with Innate Robustness to Partial Occlusion**
 
 - Paper: https://arxiv.org/abs/2003.04490
-
 - Code: https://github.com/AdamKortylewski/CompositionalNets
 
 **Spatially Attentive Output Layer for Image Classification**
 
 - Paper: https://arxiv.org/abs/2004.07570 
-- 代码（好像被原作者删除了）：https://github.com/ildoonet/spatially-attentive-output-layer 
+- Code (removed): https://github.com/ildoonet/spatially-attentive-output-layer 
 
 # Video Classification
 
@@ -159,19 +156,16 @@ For other conference paper collections, see https://github.com/amusi/daily-paper
 **D2Det: Towards High Quality Object Detection and Instance Segmentation**
 
 - Paper: http://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf
-
 - Code: https://github.com/JialeCao001/D2Det
 
 **Dynamic Refinement Network for Oriented and Densely Packed Object Detection**
 
 - Paper: https://arxiv.org/abs/2005.09973
-
 - Code: https://github.com/Anymake/DRN_CVPR2020
 
 **Scale-Equalizing Pyramid Convolution for Object Detection**
 
 Paper: https://arxiv.org/abs/2005.03101
-
 Code: https://github.com/jshilong/SEPC
 
 **Revisiting the Sibling Head in Object Detector**
@@ -230,13 +224,11 @@ Code: https://github.com/jshilong/SEPC
 **SESS: Self-Ensembling Semi-Supervised 3D Object Detection**
 
 - Paper:  https://arxiv.org/abs/1912.11803
-
 - Code: https://github.com/Na-Z/sess
 
 **Associate-3Ddet: Perceptual-to-Conceptual Association for 3D Point Cloud Object Detection**
 
 - Paper:  https://arxiv.org/abs/2006.04356
-
 - Code: https://github.com/dleam/Associate-3Ddet
 
 **What You See is What You Get: Exploiting Visibility for 3D Object Detection**
@@ -260,13 +252,11 @@ Code: https://github.com/jshilong/SEPC
 **IDA-3D: Instance-Depth-Aware 3D Object Detection from Stereo Vision for Autonomous Driving**
 
 - Paper: http://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_IDA-3D_Instance-Depth-Aware_3D_Object_Detection_From_Stereo_Vision_for_Autonomous_CVPR_2020_paper.pdf
-
 - Code: https://github.com/swords123/IDA-3D
 
 **Train in Germany, Test in The USA: Making 3D Object Detectors Generalize**
 
 - Paper: https://arxiv.org/abs/2005.08139
-
 - Code: https://github.com/cxy1997/3D_adapt_auto_driving
 
 **MLCVNet: Multi-Level Context VoteNet for 3D Object Detection**
@@ -279,19 +269,16 @@ Code: https://github.com/jshilong/SEPC
 - CVPR 2020 Oral
 
 - Paper: https://arxiv.org/abs/2002.10187
-
 - Code: https://github.com/tomztyang/3DSSD
 
 **Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation**
 
 - Paper: https://arxiv.org/abs/2004.03572
-
 - Code: https://github.com/zju3dv/disprcn
 
 **End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection**
 
 - Paper: https://arxiv.org/abs/2004.03080
-
 - Code: https://github.com/mileyan/pseudo-LiDAR_e2e
 
 **DSGN: Deep Stereo Geometry Network for 3D Object Detection**
@@ -307,7 +294,6 @@ Code: https://github.com/jshilong/SEPC
 **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**
 
 - Paper: https://arxiv.org/abs/1912.13192
-
 - Code: https://github.com/sshaoshuai/PV-RCNN
 
 **Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud**
@@ -345,7 +331,7 @@ Code: https://github.com/Scalsol/mega.pytorch
 
 - Project Page: https://www.vision.rwth-aachen.de/page/siamrcnn
 - Paper: https://arxiv.org/abs/1911.12836
-- 论文2：https://www.vision.rwth-aachen.de/media/papers/192/siamrcnn.pdf
+- Paper (2): https://www.vision.rwth-aachen.de/media/papers/192/siamrcnn.pdf
 - Code: https://github.com/VisualComputingInstitute/SiamR-CNN
 
 **Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises**
@@ -597,8 +583,8 @@ Code: https://github.com/Mooonside/BANet
 
 - Paper: https://arxiv.org/abs/2005.09917
 - Code: https://github.com/zhengxiawu/rethinking_performance_estimation_in_NAS
-- 解读1：https://www.zhihu.com/question/372070853/answer/1035234510
-- 解读2：https://zhuanlan.zhihu.com/p/111167409
+- Interpretation 1: https://www.zhihu.com/question/372070853/answer/1035234510
+- Interpretation 2: https://zhuanlan.zhihu.com/p/111167409
 
 **CARS: Continuous Evolution for Efficient Neural Architecture Search**
 
@@ -616,8 +602,8 @@ Code: https://github.com/Mooonside/BANet
 
 **Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation**
 
-- 论文地址：http://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Reusing_Discriminators_for_Encoding_Towards_Unsupervised_Image-to-Image_Translation_CVPR_2020_paper.html
-- 代码地址：https://github.com/alpc91/NICE-GAN-pytorch 
+- Paper: http://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Reusing_Discriminators_for_Encoding_Towards_Unsupervised_Image-to-Image_Translation_CVPR_2020_paper.html
+- Code: https://github.com/alpc91/NICE-GAN-pytorch 
 
 **Distribution-induced Bidirectional Generative Adversarial Network for Graph Representation Learning**
 
@@ -1765,7 +1751,7 @@ Code: https://github.com/abdo-eldesokey/pncnn
 **Self-Supervised Viewpoint Learning from Image Collections**
 
 - Paper: https://arxiv.org/abs/2004.01793
-- 论文2：https://research.nvidia.com/sites/default/files/pubs/2020-03_Self-Supervised-Viewpoint-Learning/SSV-CVPR2020.pdf 
+- Paper (2): https://research.nvidia.com/sites/default/files/pubs/2020-03_Self-Supervised-Viewpoint-Learning/SSV-CVPR2020.pdf 
 - Code: https://github.com/NVlabs/SSV 
 
 **Towards Discriminability and Diversity: Batch Nuclear-norm Maximization under Label Insufficient Situations**
