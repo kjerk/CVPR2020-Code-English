@@ -1098,7 +1098,7 @@ Code: https://github.com/clovaai/cutblur
 **Intra- and Inter-Action Understanding via Temporal Action Parsing**
 
 - Paper: https://arxiv.org/abs/2005.10229
-- 主页和Dataset: https://sdolivia.github.io/TAPOS/
+- Project Page / Dataset: https://sdolivia.github.io/TAPOS/
 
 **3DV: 3D Dynamic Voxel for Action Recognition in Depth Video**
 
@@ -1900,7 +1900,7 @@ Code: https://github.com/abdo-eldesokey/pncnn
 
 - Paper: https://arxiv.org/abs/2001.05868
 - Code: https://github.com/fxmeng/filter-grafting
-- 论文Interpretation: https://www.zhihu.com/question/372070853/answer/1041569335
+- Paper Interpretation: https://www.zhihu.com/question/372070853/answer/1041569335
 
 **Action Segmentation with Joint Self-Supervised Temporal Domain Adaptation**
 
@@ -1922,6 +1922,15 @@ Code: https://github.com/abdo-eldesokey/pncnn
 
 - Paper: https://arxiv.org/abs/2003.01455
 - Code: https://github.com/bbrattoli/ZeroShotVideoClassification
+
+# Miscellaneous
+
+**FADNet: A Fast and Accurate Network for Disparity Estimation**
+
+- Paper: Not Available
+- Code: https://github.com/HKBU-HPML/FADNet
+
+https://github.com/Realtime-Action-Recognition/Realtime-Action-Recognition
 
 https://github.com/charlesCXK/3D-SketchAware-SSC
 
@@ -1947,41 +1956,32 @@ https://github.com/bermanmaxim/AOWS
 
 https://github.com/dc3ea9f/look-into-object 
 
-# Miscellaneous
+https://github.com/rFID-submit/RandomFID
 
-**FADNet: A Fast and Accurate Network for Disparity Estimation**
+https://github.com/JackSyu/AE-MSR
 
-- Paper: Not Available
-- Code: https://github.com/HKBU-HPML/FADNet
+https://github.com/fastconvnets/cvpr2020
 
-https://github.com/rFID-submit/RandomFID：不确定中没中
+https://github.com/aimagelab/meshed-memory-transformer
 
-https://github.com/JackSyu/AE-MSR：不确定中没中
+https://github.com/TWSFar/CRGNet
 
-https://github.com/fastconvnets/cvpr2020：不确定中没中
+https://github.com/CVPR-2020/CDARTS
 
-https://github.com/aimagelab/meshed-memory-transformer：不确定中没中
+https://github.com/anucvml/ddn-cvprw2020
 
-https://github.com/TWSFar/CRGNet：不确定中没中
+https://github.com/dl-model-recommend/model-trust
 
-https://github.com/CVPR-2020/CDARTS：不确定中没中
+https://github.com/apratimbhattacharyya18/CVPR-2020-Corr-Prior
 
-https://github.com/anucvml/ddn-cvprw2020：不确定中没中
+https://github.com/onetcvpr/O-Net
 
-https://github.com/dl-model-recommend/model-trust：不确定中没中
+https://github.com/502463708/Microcalcification_Detection
 
-https://github.com/apratimbhattacharyya18/CVPR-2020-Corr-Prior：不确定中没中
+https://github.com/anonymous-for-review/cvpr-2020-deep-smoke-machine
 
-https://github.com/onetcvpr/O-Net：不确定中没中
+https://github.com/anonymous-for-review/cvpr-2020-smoke-recognition-dataset
 
-https://github.com/502463708/Microcalcification_Detection：不确定中没中
+https://github.com/cvpr-nonrigid/dataset
 
-https://github.com/anonymous-for-review/cvpr-2020-deep-smoke-machine：不确定中没中
-
-https://github.com/anonymous-for-review/cvpr-2020-smoke-recognition-dataset：不确定中没中
-
-https://github.com/cvpr-nonrigid/dataset：不确定中没中
-
-https://github.com/theFool32/PPBA：不确定中没中
-
-https://github.com/Realtime-Action-Recognition/Realtime-Action-Recognition
+https://github.com/theFool32/PPBA
